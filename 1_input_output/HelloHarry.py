@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
+"""
+Program greets the user
+"""
 
-"""Program greets the user"""
 
-#identify variable name and entering name
-
+# Identify variable name and entering name
 name = str(input('What is your name?', ))
-
-#output result
-
+# Output result
 print('Hello,', name)

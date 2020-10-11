@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """
 User has to enter length of triangle legs and program will substitute input data in the formula and output the result
 """

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """
 Programm calculates the number of hours in a given number of minutes
 """

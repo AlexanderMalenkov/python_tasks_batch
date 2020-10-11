@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """
 Program calculates number of desks for schoolboys from 3 classes
 """

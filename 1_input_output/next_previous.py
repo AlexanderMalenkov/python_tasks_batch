@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """
 Program calculate next and previous number
 """

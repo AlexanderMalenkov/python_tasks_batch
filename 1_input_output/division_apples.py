@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """
 User has to insert number of schoolboys and number of apples
 """

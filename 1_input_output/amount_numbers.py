@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 """
 User has to enter three numbers and programm will add them up
 """

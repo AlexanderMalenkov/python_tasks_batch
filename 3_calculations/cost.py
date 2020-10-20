@@ -14,3 +14,5 @@ if rub <= 0 or cent <= 0 or count <= 0:
 
 # Calculating the response
 print (f'{rub * count + (cent * count) // 100} Rub {(cent * count) % 100} c')
+
+

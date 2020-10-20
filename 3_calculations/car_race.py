@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
+
+import math
+
+
 """
 The program calculates the time in the road. User have to enter speed  day and path lenth
 """
 
-import math
+
 # Entering speed and path lenth
 speed = int(input('Enter speed: '))
 lenth = int(input('Enter lenth: '))
